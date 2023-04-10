@@ -9,10 +9,12 @@ Proje içinde hem masaüstü oyunun hem de telefon ile kontrol edebilmek için t
 
 Oyunu oynamak isteyen kişiler (4 kişiye kadar) Akademi Online Bilgi Yarışması'nın telefon uygulamasından Oyun ID'si ve Şifresi ile odaya bağlanır.
 
-
 Türkçe Sesli masaüstü uygulaması sıra ile soruları okur ve belli aralıklar ile cevapları gösterir. Oyunu oynayan kullanıcılar bu sırada cevaplarını telefondan seçerler.
 
 Cevaplama hızlarına göre puanları katlanır ve oyun sonunda Puan Tablosunda tüm oyuncuların puanları gösterilir.
+
+Projeyi kurup build almak yerine aşağıdaki linkten Masaüstü ve Mobil uygulamalarımızı indirip oynamaya başlayabilirsiniz.
+https://drive.google.com/drive/folders/18M_wnCwW0c-L4h0faEa3Sv1FjhfnntWk?usp=sharing
 
 <h3> Oyun Özellikleri </h3>
 
@@ -73,4 +75,16 @@ Movie Maker (Video Düzenleme)
 
 Zoom (Ekran Kaydı)
 
+<h3> Geliştirme Ortamı </h3>
+Unity 2020.1.0f1
+
+<h3> Tüm Ekibe Teşekkürler </h3>
+
+Ufuk Anteplioğlu - Programmer
+
+Firuza Rahimova - Scene Designer ve Animator
+
+Egemen Duman ve Ecem Öğütcü - Voice Actors
+
+Cengizhan Civelek - QA Tester
 
