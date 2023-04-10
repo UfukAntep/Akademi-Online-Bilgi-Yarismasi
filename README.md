@@ -24,13 +24,15 @@ Türkçe Seslendirme
 
 Unity Bilgi Öğretimi (10 soru)
 
+İnternet Kontrolü
+
 Php ile Sunucu kontrolü
 
 Mysql veri tabanı
 
-Hosting Bağlantısı (Ücretsiz - https://akademionline.cu.ma)
+Hosting Bağlantısı (Ücretsiz - https://akademionline.cu.ma/OyunveUygulamaAkademisi.php)
 
-Not: Site veritabanı ve php için kullanılmaktadır.
+Not: Site veritabanı ve php için kullanılmaktadır. Ücretsiz sunucu kullanıldığı için yer yer ufak gecikmeler olabilir.
 
  
 <h3> Sunucu PhpMyAdmin Görseli</h3>
@@ -87,4 +89,7 @@ Firuza Rahimova - Scene Designer ve Animator
 Egemen Duman ve Ecem Öğütcü - Voice Actors
 
 Cengizhan Civelek - QA Tester
+
+<h3> Youtube Video Linki </h3>
+
 
