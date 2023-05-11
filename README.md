@@ -91,5 +91,5 @@ Egemen Duman ve Ecem Öğütcü - Voice Actors
 Cengizhan Civelek - QA Tester
 
 <h3> Youtube Video Linki </h3>
-
+https://www.youtube.com/watch?v=TGAUNdHCygc&t=0s
 
